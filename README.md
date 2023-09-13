@@ -7,12 +7,11 @@ You can click the Preview link to take a look at your changes.
 <h1 align="left">Oi!! Eu sou a Nadinne 👋</h1>
 <h3 align="left">Uma Engenheira Civil de formação que se encontrou na área de Dados! </h3>
 
-- 🌱 Estou atualmente estudando **SQL, Power BI, Excel e Python**
-
-- 👨‍💻 Todos os meus projetos estão disponíveis no meu <a href = "https://github.com/nadinne94?tab=repositories">repositório</a>.
-
-  <div>
-    <p align="left">
+<div align="left">
+  <p>
+     Estou atualmente estudando <b>SQL</b>, <b>Power BI</b>, <b>Excel</b> e <b>Python</b> <br> 
+     Todos os meus projetos estão disponíveis no meu <u><a href = "https://github.com/nadinne94?tab=repositories">repositório</a></u>.
+  </p>
       <img  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql" />
       <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
       <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
