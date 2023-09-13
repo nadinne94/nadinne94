@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
       <img  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql" />
       <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
       <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+      <img height="28" width="105" src="https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI" alt="Power BI" />
     </p>
   </div>
 
