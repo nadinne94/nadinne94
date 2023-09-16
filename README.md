@@ -9,8 +9,10 @@ You can click the Preview link to take a look at your changes.
 
 <div align="left">
   <p>
-     Estou atualmente estudando <b>SQL</b>, <b>Power BI</b>, <b>Excel</b> e <b>Python</b> <br> 
-     Todos os meus projetos estão disponíveis no meu <u><a href = "https://github.com/nadinne94?tab=repositories">repositório</a></u>.
+    Trabalhei como engenheira e autônoma na revenda de semijoias, funções que expandiram minhas competências em gestão, marketing, comunicação e uma gama variada de atribuições que as funções demandavam.  Em         decorrência do meu interesse pela área da tecnologia, participei do programa de mentoria Cloud Girls onde aprimorei minhas habilidades em linguagens como Java, JavaScript, HTML5 e CSS3, 
+    bem como, evolui minhas   habilidades em Soft Skills. Hoje foco na área a área de Dados e Business Intelligence, então busquei me capacitar na linguagem <b>SQL</b> e no manuseio de ferramentas para               gerenciamento de <b>Banco de Dados</b>, <b>Power BI</b> e <b>Excel</b>.
+    <br><br>
+    Aqui no meu <a href =   "https://github.com/nadinne94?tab=repositories"><b>Repositório</b></a> você encontra alguns dos meus projetos assim como no meu <u><a href="https://www.behance.net/nadinnecavalcante">     <b>Portfólio</b></a></u>.<br>
   </p>
       <img  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql" />
       <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
