@@ -21,6 +21,14 @@ _Uma Engenheira Civil de formação que se encontrou na área de Dados!_
     <br>
 </div>
 
+## Linguagens
+
+<div>
+      <img src="https://github.com/nadinne94/icons/blob/main/servidor-sql.png" alt="SQL" height="50" width="50" />
+      <img src="https://github.com/nadinne94/icons/blob/main/java.png" alt="Java" height="50" width="50"  />
+      <img src="https://github.com/nadinne94/icons/blob/main/script-java.png" alt="JavaScript" height="50" width="50"  />
+</div>
+
 ## Ferramentas
 <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQLServer" height="50" width="80"  />
