@@ -26,7 +26,8 @@ _Uma Engenheira Civil de formação que se encontrou na área de Dados!_
 <div>
       <img src="https://github.com/nadinne94/icons/blob/main/servidor-sql.png" alt="SQL" height="50" width="50" />
       <img src="https://github.com/nadinne94/icons/blob/main/java.png" alt="Java" height="50" width="50"  />
-      <img src="https://github.com/nadinne94/icons/blob/main/script-java.png" alt="JavaScript" height="50" width="50"  />
+      <img src="https://github.com/nadinne94/icons/blob/main/script-java.png" alt="JavaScript" height="50" width="50" />
+      <img src="https://devicons.railway.app/i/python.svg" alt="Python" height="50" width="80"/>
 </div>
 
 ## Ferramentas
