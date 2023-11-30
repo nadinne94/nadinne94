@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 - Data and statistics enthusiast
 - Passionate about Brazilian music
 - Bachelor's degree in Civil Engineering
-- Always listening to random podcasts: politics, science, society, entertainment, you name it.
+- Always listening to random podcasts.
 
 ## Linguagens
 
