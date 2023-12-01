@@ -12,15 +12,16 @@ You can click the Preview link to take a look at your changes.
 ## _I'm Nadinne Cavalcante and I'm in love with data ❤️_
 
 ### About me
-- She/Her
-- Brazilian
-- Data analyst
-- Rising reader
-- Half marathon runner
-- Data and statistics enthusiast
-- Passionate about Brazilian music
-- Bachelor's degree in Civil Engineering
-- Always listening to random podcasts.
+
+🚺 She/Her <br>
+🏡 Brazilian<br>
+👩‍💻 Data analyst<br>
+📖 Rising reader<br>
+🏃‍♀️  Half marathon runner<br>
+📊 Data and statistics enthusiast<br>
+🎶 Passionate about Brazilian music<br>
+🎓 Bachelor's degree in Civil Engineering<br>
+🎧 Always listening to random podcasts.
 
 ## Linguagens
 
