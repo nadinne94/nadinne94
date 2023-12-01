@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
  
 
 ## Portfólio
-* To access my portfolio in Portuguese **[click here](https://github.com/nadinne94/portfolio_dados/tree/main)**
-* To access my portfolio in English _(*under construction)_ **[click here](https://github.com/nadinne94/portfolio_data/tree/main)**
+* To access my portfolio in Portuguese **[click here](https://github.com/nadinne94/portfolio_dados)**
+* To access my portfolio in English _(*under construction)_ **[click here](https://github.com/nadinne94/data_portfolio)**
 
 
