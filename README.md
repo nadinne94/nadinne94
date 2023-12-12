@@ -17,11 +17,9 @@ You can click the Preview link to take a look at your changes.
 🏡 Brazilian<br>
 👩‍💻 Data analyst<br>
 📖 Rising reader<br>
-🏃‍♀️  Half marathon runner<br>
+🏃‍♀️ Half marathon runner<br>
 📊 Data and statistics enthusiast<br>
-🎶 Passionate about Brazilian music<br>
 🎓 Bachelor's degree in Civil Engineering<br>
-🎧 Always listening to random podcasts.
 
 ## Linguagens
 
