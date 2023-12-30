@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 📊 Data and statistics enthusiast<br>
 🎓 Bachelor's degree in Civil Engineering<br>
 
-## Linguagens
+## Languages
 
 <div>
       <img src="https://github.com/nadinne94/icons/blob/main/servidor-sql.png" [alt="SQL"] height="50" width="50" />
@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
       <img src="https://devicons.railway.app/i/python.svg" alt="Python" height="50" width="80"/>
 </div>
 
-## Ferramentas
+## Tools
 <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQLServer" height="50" width="80"  />
       <img src="https://devicons.railway.app/i/postgresql.svg" alt="Postgres" height="50" width="80"/>
@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 </div>
  
 
-## Portfólio
+## Portfolio
 * To access my portfolio in Portuguese **[click here](https://github.com/nadinne94/portfolio_dados)**
 * To access my portfolio in English _(*under construction)_ **[click here](https://github.com/nadinne94/data_portfolio)**
 
