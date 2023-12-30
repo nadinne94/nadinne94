@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 # Hello, world! Be my guest!
-## _I'm Nadinne Cavalcante and I'm in love with data ❤️_
+## _I'm Nadinne Cavalcante and I'm all about data ❤️_
 
 ### About me
 
