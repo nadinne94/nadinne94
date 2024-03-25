@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 🚺 She/Her <br>
 🏡 Brazilian<br>
 👩‍💻 Data analyst<br>
+👩‍💻 Analytics engineer<br>
 📖 Rising reader<br>
 🏃‍♀️ Half marathon runner<br>
 📊 Data and statistics enthusiast<br>
