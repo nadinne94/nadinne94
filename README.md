@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:nadinnecavalcantesilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://medium.com/@nadinne.cavalcante94"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
-
-# Hello, world! Be my guest!
-## _I'm Nadinne Cavalcante and I'm all about data ❤️_
+ 
+## Hi, I'm Nadinne Cavalcante!
+## Make yourself at home!
 
 ### About me
 
