@@ -18,11 +18,11 @@ You can click the Preview link to take a look at your changes.
 🏡 Brazilian<br>
 👩‍💻 Data analyst<br>
 👩‍💻 Analytics engineer<br>
-📖 Rising reader<br>
 🏃‍♀️ Half marathon runner<br>
 📊 Data and statistics enthusiast<br>
 🎓 Bachelor's degree in Civil Engineering<br>
-🎓 Bachelor of Science in Analysis and Systems Development Technology _(ongoing)_ <br>
+🎓 Bachelor of Science in Analysis and Systems<br>
+Development Technology _(ongoing)_ 
 
 ## Languages
 
