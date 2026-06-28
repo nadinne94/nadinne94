@@ -5,7 +5,7 @@
   <a href="https://nadinne94.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfólio-03215c?style=for-the-badge"/>
   </a>
-  <a href="https://somber-hyacinth-8fb.notion.site/Curr-culo-387aac25f42980dd9bd3ff4de9edd5c4">
+  <a href="https://curriculo-nadinne-cavalcate.notion.site/NADINNE-CAVALCANTE-SILVA-387aac25f42980dd9bd3ff4de9edd5c4">
     <img src="https://img.shields.io/badge/Currículo-035c1f?style=for-the-badge"/>
   </a>
   <a href="mailto:nadinnecavalcantesilva@gmail.com">
