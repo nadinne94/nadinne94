@@ -33,35 +33,60 @@ Tenho interesse em oportunidades como Engenheira de Dados, Analytics Engineer e 
 
 # Como construo
 
+<table>
+<tr>
+<td valign="top"">
+
+### Linguagens
+
+- Python
+- SQL
+</td>
+
+<td valign="top">
+
 ### Engenharia de Dados
 
-* Python
-* SQL
-* PySpark
-* Delta Lake
-* Azure
-* Modelagem Dimensional
-* Data Quality
-* APIs REST
+- PySpark
+- Delta Lake
+- Azure
+- APIs REST
+
+</td>
+
+<td valign="top">
 
 ### Bancos de Dados
 
-* PostgreSQL
-* SQL Server
-* MySQL
+- PostgreSQL
+- SQL Server
+- MySQL
+</td>
 
+<td valign="top">
+  
 ### Analytics
 
-* Power BI
-* Power Query
-* DAX
+- Power BI
+- DAX
+- Power Query
 
-### Ferramentas
+</td>
 
-* Git
-* GitHub
-* Databricks
-* Jupyter Notebook
+<td valign="top"">
+  
+### Boas práticas
+
+- Modelagem Dimensional
+- Data Quality
+- Git
+- GitHub
+- Databricks
+- Jupyter Notebook
+
+</td>
+</tr>
+</table>
 
 # Projeto em destaque
 
@@ -69,23 +94,35 @@ Tenho interesse em oportunidades como Engenheira de Dados, Analytics Engineer e 
 
 Projeto autoral que implementa um pipeline completo de Engenharia de Dados utilizando dados públicos da Câmara dos Deputados.
 
-### Principais entregas
+## Principais entregas
 
-✔ Ingestão automatizada via API
+<table>
+<tr>
+<td valign="top">
 
-✔ Pipeline Bronze • Silver • Gold
+✔ Ingestão automatizada de dados via API
+
+✔ Pipeline Lakehouse (Bronze • Silver • Gold)
 
 ✔ Processamento distribuído com PySpark
 
-✔ Delta Lake
+✔ Persistência utilizando Delta Lake
 
-✔ Modelagem Star Schema
+</td>
+
+<td valign="top">
+
+✔ Modelagem dimensional (Star Schema)
 
 ✔ Contratos e qualidade de dados
 
 ✔ Camada analítica para Power BI
 
-✔ Documentação técnica completa
+✔ Documentação técnica do projeto
+
+</td>
+</tr>
+</table>
 
 ### Acessar
 
