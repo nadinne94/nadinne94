@@ -46,4 +46,4 @@ Pipeline que acompanha, mês a mês, a atuação dos deputados federais de Minas
 
 ## Formação
 
-Tecnóloga em Análise e Desenvolvimento de Sistemas (UNICV, 2026) · Engenheira Civil (UFVJM, 2018)
+Tecnóloga em Análise e Desenvolvimento de Sistemas (UNICIVE, 2026) · Engenheira Civil (UFVJM, 2018)
