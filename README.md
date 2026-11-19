@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-![Nadinne Cavalcante — Engenheira de Dados](assets/capa.png)
+![Nadinne Cavalcante, Engenheira de Dados. Python, SQL, PySpark, dbt e Azure.](assets/banner.png)
 
 <p>
   <a href="https://nadinne94.github.io/portfolio/"><img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-f2eee6?style=for-the-badge&labelColor=0c2022&color=0c2022" /></a>
@@ -10,9 +10,7 @@
   <a href="mailto:nadinnecavalcantesilva@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-f2eee6?style=for-the-badge&labelColor=0c2022&color=0c2022" /></a>
 </p>
 
-# Nadinne Cavalcante
-
-Engenheira de Dados. Construo pipelines que levam o dado da fonte até a camada analítica, com arquitetura em camadas, modelagem dimensional, testes automatizados, CI/CD e documentação técnica.
+Construo pipelines que levam o dado da fonte até a camada analítica, com arquitetura em camadas, modelagem dimensional, testes automatizados, CI/CD e documentação técnica.
 
 Antes dos dados, trabalhei com engenharia civil e operações financeiras. Dessa trajetória veio o hábito de conferir se os números fecham.
 
