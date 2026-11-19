@@ -1,148 +1,51 @@
-<div align="left">
-  <a href="https://www.linkedin.com/in/nadinne-cavalcante/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
-  </a>
-  <a href="https://nadinne94.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfólio-03215c?style=for-the-badge"/>
-  </a>
-  <a href="https://curriculo-nadinne-cavalcate.notion.site/NADINNE-CAVALCANTE-SILVA-387aac25f42980dd9bd3ff4de9edd5c4">
-    <img src="https://img.shields.io/badge/Currículo-035c1f?style=for-the-badge"/>
-  </a>
-  <a href="mailto:nadinnecavalcantesilva@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge"/>
-  </a>
-  <a href="https://medium.com/@nadinne.cavalcante94">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge"/>
-  </a>
-</div>
+<a id="top"></a>
 
-# Nadinne Cavalcante - Engenharia de Dados
+![Nadinne Cavalcante — Engenheira de Dados](assets/capa.png)
 
-Desenvolvo projetos voltados à Engenharia de Dados, aplicando conceitos modernos de ingestão, transformação, modelagem e disponibilização de dados para análise.
+<p>
+  <a href="https://nadinne94.github.io/portfolio/"><img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-f2eee6?style=for-the-badge&labelColor=0c2022&color=0c2022" /></a>
+  <a href="https://nadinne94.github.io/portfolio/curriculo/"><img alt="Currículo" src="https://img.shields.io/badge/Currículo-f2eee6?style=for-the-badge&labelColor=0c2022&color=0c2022" /></a>
+  <a href="https://www.linkedin.com/in/nadinne-cavalcante/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-f2eee6?style=for-the-badge&labelColor=0c2022&color=0c2022" /></a>
+  <a href="https://medium.com/@nadinne.cavalcante94"><img alt="Medium" src="https://img.shields.io/badge/Medium-f2eee6?style=for-the-badge&labelColor=0c2022&color=0c2022" /></a>
+  <a href="mailto:nadinnecavalcantesilva@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-f2eee6?style=for-the-badge&labelColor=0c2022&color=0c2022" /></a>
+</p>
 
-Tenho interesse em oportunidades como Engenheira de Dados, Analytics Engineer e Analista de Dados.
+# Nadinne Cavalcante
 
-# O que construo
+Engenheira de Dados. Construo pipelines que levam o dado da fonte até a camada analítica, com arquitetura em camadas, modelagem dimensional, testes automatizados, CI/CD e documentação técnica.
 
-* Pipelines de ingestão e transformação de dados
-* Arquiteturas Lakehouse (Bronze, Silver e Gold)
-* Modelagem dimensional para Analytics
-* Dashboards e indicadores em Power BI
-* Soluções utilizando dados públicos e APIs REST
-* Projetos documentados seguindo boas práticas de Engenharia de Software
+Antes dos dados, trabalhei com engenharia civil e operações financeiras. Dessa trajetória veio o hábito de conferir se os números fecham.
 
-# Como construo
+## Projeto atual
 
-<table>
-<tr>
-<td valign="top"">
+### [Monitor Parlamentar](https://github.com/nadinne94/monitor-parlamentar)
 
-### Linguagens
+Pipeline que acompanha, mês a mês, a atuação dos deputados federais de Minas Gerais a partir da API de Dados Abertos da Câmara: proposições, votos nominais, presença e cota parlamentar.
 
-- Python
-- SQL
-</td>
+- Ingestão em Python com validação em Pydantic e retentativas para uma API instável
+- Transformação em dbt sobre DuckDB, com contrato de dados nos marts
+- Testes automatizados e CI/CD no GitHub Actions: cada merge executa o pipeline e publica o site
+- Entregas em versões incrementais, com as decisões técnicas registradas em ADRs
 
-<td valign="top">
+[Código](https://github.com/nadinne94/monitor-parlamentar) · [Site no ar](https://nadinne94.github.io/monitor-parlamentar/) · [Página no portfólio](https://nadinne94.github.io/portfolio/projetos/monitor-parlamentar/)
 
-### Engenharia de Dados
+## Outros projetos
 
-- PySpark
-- Delta Lake
-- Azure
-- APIs REST
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| [Pipeline Legislativo](https://github.com/nadinne94/pipeline-legislativo) | Plataforma Lakehouse com dados abertos da Câmara, das camadas Bronze a Serving, com Star Schema e Power BI | PySpark, Delta Lake, Databricks, MLflow |
+| [Azure End-to-End](https://github.com/nadinne94/azure-end-to-end-data-engineer-project) | Pipeline em cloud com orquestração no Data Factory e Data Warehouse no Synapse | Data Factory, ADLS Gen2, Synapse |
+| [Pipeline AdventureWorks](https://github.com/nadinne94/pipeline_adventureworks) | Pipeline em camadas Bronze, Silver e Gold com modelagem dimensional | PySpark, Delta Lake, SQL |
 
-</td>
+## Stack
 
-<td valign="top">
+- **Linguagens:** Python, SQL, PySpark, pandas
+- **Transformação e modelagem:** dbt, DuckDB, Delta Lake, modelagem dimensional
+- **Qualidade e DataOps:** pytest, testes do dbt, contratos de dados, Pydantic
+- **Cloud e orquestração:** Azure (Data Factory, ADLS Gen2, Synapse), Databricks, GitHub Actions
+- **Bancos de dados:** PostgreSQL, SQL Server, MySQL
+- **BI:** Power BI, DAX, Power Query
 
-### Bancos de Dados
+## Formação
 
-- PostgreSQL
-- SQL Server
-- MySQL
-</td>
-
-<td valign="top">
-  
-### Analytics
-
-- Power BI
-- DAX
-- Power Query
-
-</td>
-
-<td valign="top"">
-  
-### Boas práticas
-
-- Modelagem Dimensional
-- Data Quality
-- Git
-- GitHub
-- Databricks
-- Jupyter Notebook
-
-</td>
-</tr>
-</table>
-
-# Projeto em destaque
-
-## Plataforma Lakehouse com Dados Abertos da Câmara dos Deputados
-
-Projeto autoral que implementa um pipeline completo de Engenharia de Dados utilizando dados públicos da Câmara dos Deputados.
-
-## Principais entregas
-
-<table>
-<tr>
-<td valign="top">
-
-✔ Ingestão automatizada de dados via API
-
-✔ Pipeline Lakehouse (Bronze • Silver • Gold)
-
-✔ Processamento distribuído com PySpark
-
-✔ Persistência utilizando Delta Lake
-
-</td>
-
-<td valign="top">
-
-✔ Modelagem dimensional (Star Schema)
-
-✔ Contratos e qualidade de dados
-
-✔ Camada analítica para Power BI
-
-✔ Documentação técnica do projeto
-
-</td>
-</tr>
-</table>
-
-### Acessar
-
-📂 Projeto
-
-https://github.com/nadinne94/projeto_api_dados_abertos_camara
-
-🌐 Portfólio
-
-https://nadinne94.github.io/portfolio/
-
-# Formação
-
-🎓 Engenharia Civil
-
-🎓 Análise e Desenvolvimento de Sistemas - dezembro/2026
-
-
-# Vamos nos conectar?
-
-Se você procura alguém em início de carreira com foco em Engenharia de Dados e interesse contínuo por aprendizado e boas práticas, fique à vontade para conhecer meus projetos ou entrar em contato.
-
-<a href="#top">⬆ Voltar ao topo</a>
+Tecnóloga em Análise e Desenvolvimento de Sistemas (UNICV, 2026) · Engenheira Civil (UFVJM, 2018)
