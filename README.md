@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-![Nadinne Cavalcante, Engenheira de Dados. Python, SQL, PySpark, dbt e Azure.](assets/banner.png)
+![Engenheira de Dados. Fluxo: API, ingestão, dbt, testes e CI/CD. Python, SQL, PySpark, dbt e Azure.](assets/banner.png)
 
 <p>
   <a href="https://nadinne94.github.io/portfolio/"><img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-f2eee6?style=for-the-badge&labelColor=0c2022&color=0c2022" /></a>
